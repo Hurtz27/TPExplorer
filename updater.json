@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "TP Explorer v0.1.0 initial signed OTA release.",
-  "pub_date": "2026-09-17T17:55:00Z",
+  "version": "0.1.1",
+  "notes": "TP Explorer v0.1.1 release.",
+  "pub_date": "2026-09-17T19:02:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWhrMVVUZ2Z2aXU2Z1pmYVlEMlN4YnNTQXRocnFCNEdNWTlySzVZYVJXMDRnU0h6ZnlxTVNHMGhiNkpYTzR1RmRTQjlEZnBFL3RuV1I5UEVpVHJuc1pRSXlKUjJ0QkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY3NzQzCWZpbGU6VFAgRXhwbG9yZXJfMC4xLjBfeDY0X2VuLVVTLm1zaQpBbmtYd2V5MmVYdTY1YVpFb3BFTnV6cWdDTUZ4Q3Z4Rk1RaHFMc25kd013MjltalQ1bjQ4NHg1d1FjTktWRktNOURyMXhTWnZzenBpM2EwQ05CSFRDdz09Cg==",
-      "url": "https://github.com/Hurtz27/TPExplorer/releases/download/v0.1.0/TP%20Explorer_0.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWhrMVVUZ2Z2aWhNMGgxOWlUSFF2WEFCank1dnZxc2NPRi95N2Fac1poSWJtVUxNZ3ZucDlCY3RTZTJxS1lVM280b0NGdXNYbzgrUVl2ZFJ6N0tJM09MbEsyM05XNGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjcxNzUxCWZpbGU6VFAgRXhwbG9yZXJfMC4xLjFfeDY0X2VuLVVTLm1zaQpmbEtQbi9wVEQ2c2t5SE94UkN4MVU0QWRTZ1ZIcDE3cFBwRzQxeXVMNzhnNThEWko3OCtnczN0T0ZFR1pNanBXdnI0UG9nRUw1SnhlNXg3N1Z6OGREdz09Cg==",
+      "url": "https://github.com/Hurtz27/TPExplorer/releases/download/v0.1.1/TP%20Explorer_0.1.1_x64_en-US.msi"
     }
   }
 }
