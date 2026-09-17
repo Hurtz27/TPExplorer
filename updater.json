@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "notes": "FANUC Backup Analyzer / TP Explorer v0.1.0 initial signed OTA release.",
-  "pub_date": "2026-09-17T17:40:00Z",
+  "notes": "TP Explorer v0.1.0 initial signed OTA release.",
+  "pub_date": "2026-09-17T17:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWhrMVVUZ2Z2aW5FM0pUeHJtQ3dLQndCZjJLQk1lOThuZ0dDMzdaMklFc0dmSkVDNEVtU3RkaHZWY0FiczhvWTd1Ui8zRU1PdlFsUGExcDJFVWZ4T3pRSjVGVEU1MHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY2ODIwCWZpbGU6VFAgRXhwbG9yZXJfMC4xLjBfeDY0X2VuLVVTLm1zaQp3Sy8xRkN5UkNGOWxydkdCVXZDdnQ4QWZsZ0VQQy8wN1loTURvN3M0bXg3Q3lIUmJGMC9IM1ZJS0VsS0RqVVZUajVDUzFGUjQ1dENyMHluaFloNURBZz09Cg==",
-      "url": "https://github.com/hurtado-m_e80spa/FanucBackupAnalyzer/releases/download/v0.1.0/TP%20Explorer_0.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWhrMVVUZ2Z2aXU2Z1pmYVlEMlN4YnNTQXRocnFCNEdNWTlySzVZYVJXMDRnU0h6ZnlxTVNHMGhiNkpYTzR1RmRTQjlEZnBFL3RuV1I5UEVpVHJuc1pRSXlKUjJ0QkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY3NzQzCWZpbGU6VFAgRXhwbG9yZXJfMC4xLjBfeDY0X2VuLVVTLm1zaQpBbmtYd2V5MmVYdTY1YVpFb3BFTnV6cWdDTUZ4Q3Z4Rk1RaHFMc25kd013MjltalQ1bjQ4NHg1d1FjTktWRktNOURyMXhTWnZzenBpM2EwQ05CSFRDdz09Cg==",
+      "url": "https://github.com/Hurtz27/TPExplorer/releases/download/v0.1.0/TP%20Explorer_0.1.0_x64_en-US.msi"
     }
   }
 }
