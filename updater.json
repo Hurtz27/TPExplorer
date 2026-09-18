@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "TP Explorer v0.1.2 release.",
-  "pub_date": "2026-09-18T15:51:00Z",
+  "version": "0.1.3",
+  "notes": "TP Explorer v0.1.3 release: Enforces strict 4-digit DCS PIN extraction, byte-stuffed variable token scanning, and 2-digit history log support.",
+  "pub_date": "2026-09-18T17:08:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWhrMVVUZ2Z2aWxJYWQ4dG5yRHlXSDU2Y210VFp1cXZEN2xMZFY5QnpYL2oyZUo3RGxySG1ZNnRhWnBiVTdyUW1rU0d3SEo3bHl2RmdMQnc0d28zL2M2Vzl0YWVsR0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzQ2Njc1CWZpbGU6VFAgRXhwbG9yZXJfMC4xLjJfeDY0X2VuLVVTLm1zaQptS0FPMy9YcDlNTDlzZ2hFZm9PWVVOanZkYzhTdHp2L2dKZjJHdUF5cHkwTmdmSWxSejB6TitMeUpKTnRxVElFSTNQYThDT00zZ2hPV0hOaVZpLzBCdz09Cg==",
-      "url": "https://github.com/Hurtz27/TPExplorer/releases/download/v0.1.2/TP.Explorer_0.1.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWhrMVVUZ2Z2aXFKUDVYQnZxbWtQcEh3Rm9xK3RJaVNTbWxPcEROVUd5UFdiT1ppMXUxUy8rakxyMjNtNTNFSEN1WE5MNTRxKzRZT2x5eTNGeUg1WUZKUEdweFVtd1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzUxMjg0CWZpbGU6VFAgRXhwbG9yZXJfMC4xLjNfeDY0X2VuLVVTLm1zaQpmeUF0VlExblllQ1RpdVFSVytBUmJpM1JmTmJMVm15V3J0bEgxOExJamJROGpuV3NYeEtpdUFYMzBGTWdmNnpoYThpREorOEFQUTJNeSthbWZsWm5Cdz09Cg==",
+      "url": "https://github.com/Hurtz27/TPExplorer/releases/download/v0.1.3/TP.Explorer_0.1.3_x64_en-US.msi"
     }
   }
 }
