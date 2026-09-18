@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "TP Explorer v0.1.1 release.",
-  "pub_date": "2026-09-17T19:02:00Z",
+  "version": "0.1.2",
+  "notes": "TP Explorer v0.1.2 release.",
+  "pub_date": "2026-09-18T15:51:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWhrMVVUZ2Z2aWhNMGgxOWlUSFF2WEFCank1dnZxc2NPRi95N2Fac1poSWJtVUxNZ3ZucDlCY3RTZTJxS1lVM280b0NGdXNYbzgrUVl2ZFJ6N0tJM09MbEsyM05XNGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjcxNzUxCWZpbGU6VFAgRXhwbG9yZXJfMC4xLjFfeDY0X2VuLVVTLm1zaQpmbEtQbi9wVEQ2c2t5SE94UkN4MVU0QWRTZ1ZIcDE3cFBwRzQxeXVMNzhnNThEWko3OCtnczN0T0ZFR1pNanBXdnI0UG9nRUw1SnhlNXg3N1Z6OGREdz09Cg==",
-      "url": "https://github.com/Hurtz27/TPExplorer/releases/download/v0.1.1/TP.Explorer_0.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWhrMVVUZ2Z2aWxJYWQ4dG5yRHlXSDU2Y210VFp1cXZEN2xMZFY5QnpYL2oyZUo3RGxySG1ZNnRhWnBiVTdyUW1rU0d3SEo3bHl2RmdMQnc0d28zL2M2Vzl0YWVsR0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzQ2Njc1CWZpbGU6VFAgRXhwbG9yZXJfMC4xLjJfeDY0X2VuLVVTLm1zaQptS0FPMy9YcDlNTDlzZ2hFZm9PWVVOanZkYzhTdHp2L2dKZjJHdUF5cHkwTmdmSWxSejB6TitMeUpKTnRxVElFSTNQYThDT00zZ2hPV0hOaVZpLzBCdz09Cg==",
+      "url": "https://github.com/Hurtz27/TPExplorer/releases/download/v0.1.2/TP.Explorer_0.1.2_x64_en-US.msi"
     }
   }
 }
