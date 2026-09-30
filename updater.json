@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "TP Explorer v0.1.4 release: FANUC V9.40 control-byte unshifting for 4-digit DCS PIN decoding (Master 0800 & Local Base 0080), improved menu hierarchy with dividers, and full test suite verification.",
-  "pub_date": "2026-09-18T22:32:00Z",
+  "version": "0.2.0",
+  "notes": "TP Explorer v0.2.0 release: Live FANUC FTP & FTPS Controller Downloader with saved robot connection profiles, storage device guide and selector (MD:, FR:, MC:, UD1:, UT1:), FTPS security guide, centered connect controls, and full test suite verification.",
+  "pub_date": "2026-09-30T22:54:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWhrMVVUZ2Z2aW5yV3JIN1JXTCtON0RTTkx1TnlTd21UUXFwcGZ1azhTNnc5NWdGRGIyOFdERHdGeWNscFVLL2lpdmVGWUR6dFhSeE1oMnhGbkp0Y2dWOWJwVUVnK3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzcwNzQ4CWZpbGU6VFAgRXhwbG9yZXJfMC4xLjRfeDY0X2VuLVVTLm1zaQpNWGlZb0wybmFWQnFFejhSaHZRYmxTVm9GTFlZNlRhcWMrSFNVNkJyMDE3dE1DNVRhSitiS2FHdlBwM1pNaVdkRkxlQXZKS1dCcStlT1ZnbWpCUFdBdz09Cg==",
-      "url": "https://github.com/Hurtz27/TPExplorer/releases/download/v0.1.4/TP.Explorer_0.1.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWhrMVVUZ2Z2aXBmaGhaaTFXd2Y3djZmbGRvdWJaNmNmZWJwaUJJQStkM0NEWlUyZTFMZWJYREJUVmZkZG1HcVYycDNQRWNQQ0pxbUw1WFJya2RPRStxbTFjL0R5Z3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODA4ODM3CWZpbGU6VFAgRXhwbG9yZXJfMC4yLjBfeDY0X2VuLVVTLm1zaQo4UHF2T296ME5ubitLMnhCU2lrTzJRakZ2TkZ0eUF2SkJ0ZHBCNFdEdUJicmZTWHFxWE0rSWhKbTlHTEtld3NidTBTc2kzVnJwODhVaXdrVmpKNlpBQT09Cg==",
+      "url": "https://github.com/Hurtz27/TPExplorer/releases/download/v0.2.0/TP.Explorer_0.2.0_x64_en-US.msi"
     }
   }
 }
